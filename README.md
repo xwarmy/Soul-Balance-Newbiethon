@@ -1,1 +1,1 @@
-# Soul-Balance-Newbiethon
+This website is a shophisticated tool for all meditation and self help needs. With a meditation timer, bmi calculator and yoga intructions. Our company can also be personally contacted for specialized guidance.
